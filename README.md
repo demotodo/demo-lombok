@@ -5,4 +5,4 @@ https://projectlombok.org
 
 ## Generated class files
 
-- Look from compiled result: `/build/classes/main/`
+- Check from compiled result: `/build/classes/main/`
